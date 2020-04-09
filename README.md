@@ -1,5 +1,6 @@
 # mic_recoder
-USB mic interface written in python for recording your voice and making wave file for it
+USB mic interface written in python.
+You can record your voice and make a wave file.
 
 ## Description
 
@@ -7,8 +8,8 @@ USB mic interface written in python for recording your voice and making wave fil
 
 ## Requirement
 pyaudio
-numpy
-scipy
+wave
+os
 
 ## Usage
 
